@@ -2,12 +2,12 @@
 layout: page
 title: Characters
 ---
-| Name       | Description       | 
-| ----------|:---------:| 
-| Ward | soldier|
-| Gary | infiltrator |
-| Logan | hacker |
-| Red Mage | tech |
+| photos| Name       | Description       | 
+| | ----------|:---------:| 
+| | Ward | soldier|
+| | Gary | infiltrator |
+| | Logan | hacker |
+| | Red Mage | tech |
 
 ## Backstory
 ### Ward Bio -
