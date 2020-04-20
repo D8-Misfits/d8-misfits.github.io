@@ -12,7 +12,7 @@ title:  Timeline
             var additionalOptions = {
               start_at_end: true,
               default_bg_color: {r:0, g:0, b:0},
-              timenav_height: 250
+              timenav_height: 200
             }
 
             timeline = new TL.Timeline('timeline-embed',

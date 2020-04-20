@@ -7,7 +7,7 @@
         },
         "text": {
             "headline": "Sprawl",
-            "text": "<h4>So it begins</h4>"
+            "text": "“Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts... A graphic representation of data abstracted from banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding..."
         },
         "background": {
             "url": "https://www.flickr.com/photos/151537301@N05/39935489383/",
@@ -21,8 +21,8 @@
                 "year": "2020"
             },
             "text": {
-                "headline": "It Begins",
-                "text": "Day of Days</a><li>Breaking the rules</li></ul>"
+                "headline": "First Cyber implimentations",
+                "text": "Day of Days</a><li>First humans begin recieving cyber enhance limbs</li><li>Cyber Organ development occurs alongside of new biological infrastructure </li></ul>"
             },
             "background": {
                 "url": "https://www.flickr.com/photos/151537301@N05/45985696635/",
@@ -32,50 +32,96 @@
         },
         {
             "start_date": {
-                "month": "06",
+                "month": "08",
+                "day": "29",
                 "year": "2020"
             },
             "text": {
-                "headline": "Start Date",
-                "text": "Day 1</a><li>Breaking the rules</li></ul>"
+                "headline": "Peace in the Middle East",
+                "text": "<li>Unilateral Peace occurs for a single week</ul> </a><li>War soon followed there after</li></ul>"
             },
             "background": {
                 "url": "https://www.flickr.com/photos/151537301@N05/46900319441/in/photolist-2esqoZg-99d7dA-E76SWB-23QXPEp-QG6TCn-2enPzH5-2d4AHux-23HpmNd-2esqo1H-4bKDti-JPggnp-Sjidfs-29jbxEm-eD1kPr-iurX2H-dkXdqD-2hBhXa1-6fXV52-DebfPt-9PpB4R-nszcT3-8v8F7y-2h1Nydu-DGj71-9pDnTH-9AfBMt-iuroFb-c4ExP1-cLGdeN-9bKEXs-57Tutp-57XGFd-ppZEsN-57XGMJ-c8oZUY-QG6SXK-34L2qh-2iAE9dg-8WioMB-2h4dJig-73F1AL-5K3nYj-2ikTavP-btYw2C-R5bSeP-gt6ERQ-e2Rdow-aSJ8t4-9gW8wq-9pGpBY",
                 "color": ""
             }
+        },
+        {
+        "start_date": {
+            "month": "04",
+            "year": "2025"
+        },
+        "text": {
+            "headline": "Day Of No Laughter",
+            "text": "Biomedical Research Demonstrates Hundred Mile Bio Cable  </a><li>Research begins for the space elevator</li><li> President Donald Trump claims he helped discover the breakthrough when building his border wall with Mexico</li></ul>"
+        },
+        "background": {
+            "url": "https://techcrunch.com/wp-content/uploads/2016/05/cyber-wall.png?w=1390&crop=1",
+            "color": ""
         }
+    }
         
 
     ],
     "eras": [
+
+        {
+            "start_date": {
+                "month": "04",
+                "day": "25",
+                "year": "2020"
+            },
+            "end_date": {
+                "month": "7",
+                "day": "18",
+                "year": "2025"
+            },
+            "text": {
+                "headline": "Cyber implimentations"
+            }
+        },
                 {
                     "start_date": {
                         "month": "04",
                         "day": "25",
-                        "year": "2020"
+                        "year": "2025"
                     },
                     "end_date": {
                         "month": "7",
                         "day": "18",
-                        "year": "2018"
+                        "year": "2045"
                     },
                     "text": {
-                        "headline": "Session1"
+                        "headline": "Building of the space elevator"
                     }
                 },
                 {
                     "start_date": {
+                        "month": "08",
+                        "day": "29",
+                    "year": "2050"
+                },
+                "end_date": {
+                    "month": "7",
+                    "day": "18",
+                    "year": "2054"
+                },
+                "text": {
+                    "headline": "Drought Wars"
+                }
+            },
+                {
+                    "start_date": {
                         "month": "04",
                         "day": "25",
-                        "year": "2021"
+                        "year": "2054"
                     },
                     "end_date": {
                         "month": "7",
                         "day": "18",
-                        "year": "2021"
+                        "year": "2058"
                     },
                     "text": {
-                        "headline": "Session1"
+                        "headline": "Reformation of the USSR"
                     }
                 }
             ]
