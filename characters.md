@@ -4,11 +4,11 @@ title: Characters
 ---
 | Photos | Name       | Description       | 
 |---| ----------|:---------:| 
-|<center><img src="ward.jpg" alt="ward" height="42" width="42"> </center>| Ward | soldier|
-| | Gary | infiltrator |
-| | Logan | hacker |
-| | Red Mage | tech |
-| Photos | Name       | Description       | 
+|<center><img src="assets/ward.jpg" alt="ward" height="60" width="60"> </center>| Ward | soldier|
+| <center> -- 404 -- </center> | Gary | infiltrator |
+|<center><img src="assets/logan.jpg" alt="logan" height="60" width="42"> </center>| Logan | hacker |
+| <center><img src="assets/red_mage.png" alt="red_mage" height="60" width="60"> </center>| Red Mage | tech |
+
 
 
 
