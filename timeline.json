@@ -1,0 +1,82 @@
+{
+    "title": {
+        "start_date": {
+            "month": "04",
+            "day": "25",
+            "year": "2020"
+        },
+        "text": {
+            "headline": "Sprawl",
+            "text": "<h4>So it begins</h4>"
+        },
+        "background": {
+            "url": "https://www.flickr.com/photos/151537301@N05/39935489383/",
+            "color": ""
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "month": "04",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "It Begins",
+                "text": "Day of Days</a><li>Breaking the rules</li></ul>"
+            },
+            "background": {
+                "url": "https://www.flickr.com/photos/151537301@N05/45985696635/",
+                "color": ""
+            }
+            
+        },
+        {
+            "start_date": {
+                "month": "06",
+                "year": "2020"
+            },
+            "text": {
+                "headline": "Start Date",
+                "text": "Day 1</a><li>Breaking the rules</li></ul>"
+            },
+            "background": {
+                "url": "https://www.flickr.com/photos/151537301@N05/46900319441/in/photolist-2esqoZg-99d7dA-E76SWB-23QXPEp-QG6TCn-2enPzH5-2d4AHux-23HpmNd-2esqo1H-4bKDti-JPggnp-Sjidfs-29jbxEm-eD1kPr-iurX2H-dkXdqD-2hBhXa1-6fXV52-DebfPt-9PpB4R-nszcT3-8v8F7y-2h1Nydu-DGj71-9pDnTH-9AfBMt-iuroFb-c4ExP1-cLGdeN-9bKEXs-57Tutp-57XGFd-ppZEsN-57XGMJ-c8oZUY-QG6SXK-34L2qh-2iAE9dg-8WioMB-2h4dJig-73F1AL-5K3nYj-2ikTavP-btYw2C-R5bSeP-gt6ERQ-e2Rdow-aSJ8t4-9gW8wq-9pGpBY",
+                "color": ""
+            }
+        }
+        
+
+    ],
+    "eras": [
+                {
+                    "start_date": {
+                        "month": "04",
+                        "day": "25",
+                        "year": "2020"
+                    },
+                    "end_date": {
+                        "month": "7",
+                        "day": "18",
+                        "year": "2018"
+                    },
+                    "text": {
+                        "headline": "Session1"
+                    }
+                },
+                {
+                    "start_date": {
+                        "month": "04",
+                        "day": "25",
+                        "year": "2021"
+                    },
+                    "end_date": {
+                        "month": "7",
+                        "day": "18",
+                        "year": "2021"
+                    },
+                    "text": {
+                        "headline": "Session1"
+                    }
+                }
+            ]
+    }
