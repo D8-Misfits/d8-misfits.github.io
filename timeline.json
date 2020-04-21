@@ -58,8 +58,106 @@
             "url": "https://techcrunch.com/wp-content/uploads/2016/05/cyber-wall.png?w=1390&crop=1",
             "color": ""
         }
+    },
+    {
+        "start_date": {
+            "month": "09",
+            "year": "2025"
+        },
+        "text": {
+            "headline": "Wireless Fidelity Research Stops Completely",
+            "text": "Stranded Fiber Cable Extends Outwards Of 25,000 Miles </a><li>Cyber Brain Enhancements Give mobility to Disabled through use of new Cable</li><li>Worry over policy concerns regarding extraction of memories</li><li>Death to the Mobile and Cellular</li</ul>"
+        },
+        "background": {
+            "url": "https://wonderfulengineering.com/wp-content/uploads/2014/04/Space-Elevator2.jpg",
+            "color": ""
+        }
+    },
+    {
+        "start_date": {
+            "month": "01",
+            "year": "2026"
+        },
+        "text": {
+            "headline": "UN Security Council reshuffled",
+            "text": "Japan and Germany are now Perminant Members of the UN Security Council</a><li>Russian Federation is Outraged as Germany And Japan Join the council and Kazakhstan is Forced Out of UN</li><li>Kazakhstan's Nuclear Arsenel Continues to Grow and so do concerns of former USSR Nulclear Stock Piles</li</ul>"
+        },
+        "background": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTljMzQyOTgtN2EwZS00ZjA4LTk4NDAtZTlmZDE3MTdkYmUyXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+            "color": ""
+        }
+    },
+{
+    "start_date": {
+        "month": "04",
+        "year": "2026"
+    },
+    "text": {
+        "headline": "Moon Base Is Built, World Shrugs",
+        "text": "SpaceX high profile 'Mansions on the Moon' are now complete</a><li>Kazakhstan Threatens SpaceX Project By Deploying Nuclear Arsenel on The moon, Condo prices plummet</li><li>Canada Signs Mutual Defense Pact with Mexico, and Russia regarding US agression, Former Minster of National Defence, Harjit Sajjan Speaks out against the pack </li</ul>"
+    },
+    "background": {
+        "url": "https://www.ancient-code.com/wp-content/uploads/2016/05/Mystery-Moon-Base.jpg",
+        "color": ""
     }
-        
+},
+    {
+        "start_date": {
+            "month": "12",
+            "year": "2028"
+        },
+        "text": {
+            "headline": "AI Murder Case",
+            "text": "First Synthetic AI Murder Case Takes place in downtown LA</a><li>LAPD Raid numerous Matrix Dens in recent crackdown on Crime and Cyber Brain Mods</li><li>Gangster Disciples of America Deploy Armored Malitia to Neighborhoods in LA to fend of the Police brutality </li</ul>"
+        },
+        "background": {
+            "url": "https://i0.wp.com/silverscreenriot.com/wp-content/uploads/images/la_ca_0105_chappie_068.jpg",
+            "color": ""
+        }
+},
+{
+    "start_date": {
+        "month": "06",
+        "year": "2030"
+    },
+    "text": {
+        "headline": "First Human on Mars",
+        "text": "Violence Soars as Vast amount of resources are moved off planet</a><li>Leader of Gangster Disciples Of America declares war on off-planet rich </li><li>Numerous Intelligence Agencies Note the threat of the Discipiles</li</ul>"
+    },
+    "background": {
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd128593-12f9-4329-bd8a-acdf2e667241/d6h1znj-c834d424-21d7-4eff-a225-dfc933407abe.png/v1/fill/w_1024,h_666,strp/evacuate_earth_____by_snaku6763_d6h1znj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjY2IiwicGF0aCI6IlwvZlwvY2QxMjg1OTMtMTJmOS00MzI5LWJkOGEtYWNkZjJlNjY3MjQxXC9kNmgxem5qLWM4MzRkNDI0LTIxZDctNGVmZi1hMjI1LWRmYzkzMzQwN2FiZS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.KEXqThVc2k0yTF6hjoIQCEgir5fAh-0dCPRoFipKTfc",
+        "color": ""
+    }
+},
+{
+    "start_date": {
+        "month": "12",
+        "year": "2031"
+    },
+    "text": {
+        "headline": "Rumors Stating the Space Elevator is Complete",
+        "text": "People Overwhelming flood into Kampala as Rumors of mass exodus from earth occurs</a><li>Numerous Corportaions around the globe are asking for subsidies due to the recent deinvestment of earth</li><li>US IRS is dissovled by current president, adn cabinent members as the Supreme Court rules upon freedom from the poor</li</ul>"
+    },
+    "background": {
+        "url": "https://static01.nyt.com/images/2019/05/05/opinion/sunday/05eisinger/05eisinger-superJumbo.jpg?quality=90&auto=webp",
+        "color": ""
+    }
+},
+{
+    "start_date": {
+        "month": "01",
+        "year": "2032"
+    },
+    "text": {
+        "headline": "Nuclear War Has Begun in The United States",
+        "text": "US Government Attacks Silicon Valley with a nuclear Strike</a><li>Numerous High Tech Firms respond by disabling communincations with Navy And Air Force</li><li>US Manufactoring and Agriculture plummet</li</ul>"
+    },
+    "background": {
+        "url": "https://thumbs-prod.si-cdn.com/l2Y9so9TPmEax2Bw_VOpGjaTgVY=/fit-in/1600x0/https://public-media.si-cdn.com/filer/83/e0/83e02b92-b91f-40f8-a05f-36cd040debf9/nuclearwinter-ratio.jpg",
+        "color": ""
+    }
+}
+
 
     ],
     "eras": [
@@ -88,7 +186,7 @@
                     "end_date": {
                         "month": "7",
                         "day": "18",
-                        "year": "2045"
+                        "year": "2034"
                     },
                     "text": {
                         "headline": "Building of the space elevator"
