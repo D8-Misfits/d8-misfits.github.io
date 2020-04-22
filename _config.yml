@@ -26,16 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: D8-Misfits
 github_username:  D8-Misfits
-
+gems:
+    - jekyll-leaflet
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-tab_pages:
-  - title: "characters"
-    path: working-agreement-it.md
-    url: "/character"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
