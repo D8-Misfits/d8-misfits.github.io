@@ -19,3 +19,6 @@ The Yang Liewi International Space Lift. nothing on earth has caused a larger te
 
 ### E-Sheks / Joe-Bucks / Script
 Currency. Short for Electronic Shekles/ The Neo Soviet Union Ruble / Corporation minted money 
+
+### Uploaded to the Grid
+People who have been ajdj
